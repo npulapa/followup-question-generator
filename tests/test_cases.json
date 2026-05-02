@@ -4,14 +4,17 @@
     "candidate_answer": "It allows multiple forms.",
     "evaluation": {
       "correctness": "partial",
-      "missing_concepts": ["overloading", "overriding"]
+      "missing_concepts": ["method overloading", "method overriding"],
+      "mistakes": []
     }
   },
   {
     "previous_question": "What is encapsulation?",
     "candidate_answer": "",
     "evaluation": {
-      "correctness": "empty"
+      "correctness": "empty",
+      "missing_concepts": [],
+      "mistakes": []
     }
   }
 ]
