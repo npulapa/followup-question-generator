@@ -1,0 +1,17 @@
+[
+  {
+    "previous_question": "What is polymorphism?",
+    "candidate_answer": "It allows multiple forms.",
+    "evaluation": {
+      "correctness": "partial",
+      "missing_concepts": ["overloading", "overriding"]
+    }
+  },
+  {
+    "previous_question": "What is encapsulation?",
+    "candidate_answer": "",
+    "evaluation": {
+      "correctness": "empty"
+    }
+  }
+]
